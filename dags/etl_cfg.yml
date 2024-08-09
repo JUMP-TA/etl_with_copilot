@@ -1,0 +1,13 @@
+
+simple_etl_dag_auto:
+  default_args:
+    owner: 'airflow'
+    start_date: '2024-01-01'
+    retries: 1
+  schedule_interval: '@daily'
+  catchup: False
+  tasks:
+    etl_task:
+      operator: airflow.operators.python.PythonOperator
+      python_callable_name: 'etl_pipeline'
+      python_callable_file: /Users/jamison.ducey/etl_copilot_demo/dags/etl_dag.py

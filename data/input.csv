@@ -1,0 +1,51 @@
+id,name,age,city,country,position,salary
+1,John Wilson,25,Philadelphia,Ecuador,Accountant,100000
+2,Alice Davis,21,San Jose,Ecuador,Nurse,60000
+3,John Johnson,43,Dallas,Colombia,Software Engineer,50000
+4,Alice Smith,31,New York,Brazil,Product Manager,60000
+5,Doe Wilson,29,Houston,Brazil,Software Engineer,130000
+6,Bob Smith,23,Houston,Canada,Doctor,60000
+7,Bob Miller,47,Phoenix,USA,Marketing Manager,140000
+8,Bob Smith,53,San Antonio,Venezuela,Lawyer,110000
+9,Doe Brown,50,Houston,Canada,Data Scientist,50000
+10,Eve Wilson,42,Chicago,Peru,Software Engineer,120000
+11,John Davis,53,New York,Ecuador,Nurse,90000
+12,Jane Williams,20,Phoenix,Colombia,Data Scientist,120000
+13,Alice Brown,34,Phoenix,Chile,HR Manager,80000
+14,Charlie Davis,46,Dallas,Argentina,Product Manager,90000
+15,David Moore,53,Phoenix,Chile,Nurse,80000
+16,Alice Williams,39,Philadelphia,Colombia,Sales Manager,120000
+17,Jane Taylor,53,San Antonio,Ecuador,Doctor,130000
+18,Eve Williams,37,San Jose,Venezuela,Marketing Manager,70000
+19,Frank Taylor,54,Los Angeles,Colombia,Product Manager,80000
+20,Doe Taylor,50,New York,Canada,Nurse,80000
+21,John Jones,50,San Diego,Canada,HR Manager,50000
+22,Frank Smith,58,Chicago,Brazil,HR Manager,90000
+23,Frank Davis,37,San Diego,Peru,Product Manager,70000
+24,Alice Davis,26,Philadelphia,Peru,Software Engineer,80000
+25,John Brown,48,New York,Colombia,Sales Manager,80000
+26,Frank Johnson,26,Phoenix,Canada,HR Manager,140000
+27,Alice Smith,53,Philadelphia,Colombia,Software Engineer,70000
+28,Charlie Johnson,41,Chicago,Venezuela,Lawyer,110000
+29,Charlie Johnson,52,Houston,USA,Software Engineer,50000
+30,David Johnson,26,San Jose,Canada,Lawyer,80000
+31,Eve Taylor,41,San Antonio,Colombia,Lawyer,100000
+32,Charlie Jones,25,Houston,Mexico,Data Scientist,80000
+33,Grace Moore,34,Philadelphia,Peru,Sales Manager,90000
+34,Charlie Smith,48,Phoenix,Colombia,Product Manager,50000
+35,Doe Jones,58,Chicago,Peru,Accountant,90000
+36,Bob Jones,31,San Antonio,Argentina,Nurse,80000
+37,Jane Williams,26,Los Angeles,Brazil,Lawyer,130000
+38,Eve Williams,35,Phoenix,Brazil,Lawyer,90000
+39,Doe Moore,56,Chicago,Ecuador,Sales Manager,120000
+40,Eve Jones,60,Phoenix,Brazil,Doctor,70000
+41,Alice Smith,33,Dallas,Peru,Accountant,50000
+42,Bob Jones,33,Philadelphia,Canada,HR Manager,130000
+43,Alice Jones,40,Houston,Venezuela,Lawyer,110000
+44,Frank Moore,21,Phoenix,Ecuador,Accountant,70000
+45,Charlie Smith,59,San Jose,Ecuador,Product Manager,110000
+46,Frank Miller,35,Chicago,Colombia,Doctor,120000
+47,Frank Smith,26,San Diego,Chile,Sales Manager,140000
+48,David Smith,59,San Diego,Ecuador,Accountant,90000
+49,David Wilson,48,Phoenix,Peru,Product Manager,130000
+50,Alice Jones,53,Dallas,Mexico,Software Engineer,120000

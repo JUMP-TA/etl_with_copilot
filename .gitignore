@@ -1,0 +1,5 @@
+
+# Ignore Python bytecode files
+.pytest_cache
+.venv
+**/__pycache__
